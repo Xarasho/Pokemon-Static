@@ -30,7 +30,7 @@ export const Navbar = () => {
             P
           </Text> */}
           <Text transform="capitalize" color="white" h2>
-            Pókemon
+            Pókemon!
           </Text>
         </>
       </NextLink>
